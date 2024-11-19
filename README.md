@@ -80,3 +80,7 @@ If that doesnt work, try to install Miniconda.
 ## Im running Windows 7
 Update to a newer Windows version, or install a lightweight linux distro parallel to your Windows OS (I can recommend [Linux Mint](https://www.linuxmint.com/) for first time users coming from Windows).
 
+# License
+All notebooks are licensed under CC BY-NC-SA 4.0.
+
+The python basics notebooks in this repo is inspired by [https://github.com/gvasold/gdp](https://github.com/gvasold/gdp) made by Gunter Vasold.
